@@ -71,7 +71,7 @@ namespace Copy_EAS_Log
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(14, 128);
+            this.label2.Location = new System.Drawing.Point(14, 116);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(614, 17);
@@ -82,7 +82,7 @@ namespace Copy_EAS_Log
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox1.Location = new System.Drawing.Point(17, 30);
+            this.textBox1.Location = new System.Drawing.Point(17, 26);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(102, 26);
@@ -91,7 +91,7 @@ namespace Copy_EAS_Log
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox2.Location = new System.Drawing.Point(17, 99);
+            this.textBox2.Location = new System.Drawing.Point(17, 89);
             this.textBox2.Margin = new System.Windows.Forms.Padding(4);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(102, 26);
@@ -100,10 +100,10 @@ namespace Copy_EAS_Log
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button1.Location = new System.Drawing.Point(17, 200);
+            this.button1.Location = new System.Drawing.Point(16, 178);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(102, 33);
+            this.button1.Size = new System.Drawing.Size(104, 29);
             this.button1.TabIndex = 5;
             this.button1.Text = "Выполнить";
             this.button1.UseVisualStyleBackColor = true;
@@ -113,7 +113,7 @@ namespace Copy_EAS_Log
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label3.Location = new System.Drawing.Point(13, 237);
+            this.label3.Location = new System.Drawing.Point(13, 207);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(520, 17);
@@ -124,7 +124,7 @@ namespace Copy_EAS_Log
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label4.Location = new System.Drawing.Point(14, 286);
+            this.label4.Location = new System.Drawing.Point(14, 252);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(105, 17);
@@ -134,7 +134,7 @@ namespace Copy_EAS_Log
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox3.Location = new System.Drawing.Point(17, 166);
+            this.textBox3.Location = new System.Drawing.Point(17, 152);
             this.textBox3.Margin = new System.Windows.Forms.Padding(4);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(102, 26);
@@ -144,7 +144,7 @@ namespace Copy_EAS_Log
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label5.Location = new System.Drawing.Point(13, 145);
+            this.label5.Location = new System.Drawing.Point(13, 133);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(568, 17);
@@ -156,7 +156,7 @@ namespace Copy_EAS_Log
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label6.Location = new System.Drawing.Point(14, 60);
+            this.label6.Location = new System.Drawing.Point(14, 53);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(461, 17);
@@ -167,7 +167,7 @@ namespace Copy_EAS_Log
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Times New Roman", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label7.Location = new System.Drawing.Point(14, 77);
+            this.label7.Location = new System.Drawing.Point(14, 70);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(246, 17);
@@ -177,10 +177,10 @@ namespace Copy_EAS_Log
             // textBox4
             // 
             this.textBox4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox4.Location = new System.Drawing.Point(162, 306);
+            this.textBox4.Location = new System.Drawing.Point(154, 271);
             this.textBox4.Margin = new System.Windows.Forms.Padding(4);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(454, 26);
+            this.textBox4.Size = new System.Drawing.Size(462, 26);
             this.textBox4.TabIndex = 13;
             // 
             // label9
@@ -194,7 +194,7 @@ namespace Copy_EAS_Log
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(17, 257);
+            this.textBox5.Location = new System.Drawing.Point(17, 225);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(599, 26);
             this.textBox5.TabIndex = 17;
@@ -202,10 +202,10 @@ namespace Copy_EAS_Log
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button2.Location = new System.Drawing.Point(127, 200);
+            this.button2.Location = new System.Drawing.Point(119, 178);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(96, 33);
+            this.button2.Size = new System.Drawing.Size(96, 29);
             this.button2.TabIndex = 24;
             this.button2.Text = "Проводник";
             this.button2.UseVisualStyleBackColor = true;
@@ -234,10 +234,10 @@ namespace Copy_EAS_Log
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button3.Location = new System.Drawing.Point(127, 29);
+            this.button3.Location = new System.Drawing.Point(119, 25);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(186, 27);
+            this.button3.Size = new System.Drawing.Size(186, 28);
             this.button3.TabIndex = 27;
             this.button3.Text = "Проверить подключение";
             this.button3.UseVisualStyleBackColor = true;
@@ -257,7 +257,7 @@ namespace Copy_EAS_Log
             // textBox7
             // 
             this.textBox7.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox7.Location = new System.Drawing.Point(463, 30);
+            this.textBox7.Location = new System.Drawing.Point(463, 28);
             this.textBox7.Margin = new System.Windows.Forms.Padding(4);
             this.textBox7.Name = "textBox7";
             this.textBox7.Size = new System.Drawing.Size(154, 26);
@@ -266,10 +266,10 @@ namespace Copy_EAS_Log
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button4.Location = new System.Drawing.Point(127, 99);
+            this.button4.Location = new System.Drawing.Point(119, 88);
             this.button4.Margin = new System.Windows.Forms.Padding(4);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(96, 26);
+            this.button4.Size = new System.Drawing.Size(96, 28);
             this.button4.TabIndex = 30;
             this.button4.Text = "Начальник";
             this.button4.UseVisualStyleBackColor = true;
@@ -278,10 +278,10 @@ namespace Copy_EAS_Log
             // button5
             // 
             this.button5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button5.Location = new System.Drawing.Point(127, 166);
+            this.button5.Location = new System.Drawing.Point(119, 151);
             this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(96, 26);
+            this.button5.Size = new System.Drawing.Size(96, 28);
             this.button5.TabIndex = 31;
             this.button5.Text = "Сегодня";
             this.button5.UseVisualStyleBackColor = true;
@@ -290,10 +290,10 @@ namespace Copy_EAS_Log
             // button6
             // 
             this.button6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button6.Location = new System.Drawing.Point(17, 307);
+            this.button6.Location = new System.Drawing.Point(13, 270);
             this.button6.Margin = new System.Windows.Forms.Padding(4);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(137, 26);
+            this.button6.Size = new System.Drawing.Size(141, 28);
             this.button6.TabIndex = 32;
             this.button6.Text = "Перейти к файлу";
             this.button6.UseVisualStyleBackColor = true;
@@ -301,16 +301,16 @@ namespace Copy_EAS_Log
             // 
             // myProgressBar1
             // 
-            this.myProgressBar1.Location = new System.Drawing.Point(230, 200);
+            this.myProgressBar1.Location = new System.Drawing.Point(215, 179);
             this.myProgressBar1.Name = "myProgressBar1";
-            this.myProgressBar1.Size = new System.Drawing.Size(386, 33);
+            this.myProgressBar1.Size = new System.Drawing.Size(401, 27);
             this.myProgressBar1.TabIndex = 23;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 19F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(624, 345);
+            this.ClientSize = new System.Drawing.Size(624, 304);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
@@ -339,7 +339,7 @@ namespace Copy_EAS_Log
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
-            this.Text = "Copy_EAS_Log v1.2";
+            this.Text = "Copy_EAS_Log";
             this.ResumeLayout(false);
             this.PerformLayout();
 
